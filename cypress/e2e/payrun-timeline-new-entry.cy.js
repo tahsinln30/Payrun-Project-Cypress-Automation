@@ -12,7 +12,7 @@ viewportWidth: 2000,
 
 { 
 
-it('timeline-new-entry', () => 
+it('payrun-timeline-new-entry', () => 
 
 { 
 
