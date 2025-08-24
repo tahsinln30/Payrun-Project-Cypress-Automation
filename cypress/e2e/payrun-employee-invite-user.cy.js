@@ -12,7 +12,7 @@ viewportWidth: 2000,
 
 { 
 
-it('employee-invite-user', () => 
+it('payrun-employee-invite-user', () => 
 
 { 
 
